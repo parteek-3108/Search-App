@@ -1,0 +1,9 @@
+.search_bar {
+    padding: 2% 4%;
+}
+.search_bar > input {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 10px; 
+}
